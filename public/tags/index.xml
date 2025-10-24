@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Blog</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.com/tags/</link>
     <description>Recent content in Tags on My Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,33 +10,33 @@
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 13:46:57 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Học Tập</title>
-      <link>http://localhost:1313/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</link>
+      <link>https://example.com/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</link>
       <pubDate>Thu, 23 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
+      <guid>https://example.com/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>http://localhost:1313/tags/java/</link>
+      <link>https://example.com/tags/java/</link>
       <pubDate>Thu, 23 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/tags/java/</guid>
+      <guid>https://example.com/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Lập Trình</title>
-      <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <link>https://example.com/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
       <pubDate>Thu, 23 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      <guid>https://example.com/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
       <description></description>
     </item>
     <item>
       <title>Truyền Cảm Hứng</title>
-      <link>http://localhost:1313/tags/truy%E1%BB%81n-c%E1%BA%A3m-h%E1%BB%A9ng/</link>
+      <link>https://example.com/tags/truy%E1%BB%81n-c%E1%BA%A3m-h%E1%BB%A9ng/</link>
       <pubDate>Thu, 23 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/tags/truy%E1%BB%81n-c%E1%BA%A3m-h%E1%BB%A9ng/</guid>
+      <guid>https://example.com/tags/truy%E1%BB%81n-c%E1%BA%A3m-h%E1%BB%A9ng/</guid>
       <description></description>
     </item>
   </channel>

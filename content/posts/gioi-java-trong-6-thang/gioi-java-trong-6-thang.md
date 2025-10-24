@@ -3,7 +3,7 @@ title: "Làm sao để giỏi Java trong 6 tháng"
 date: 2025-10-24
 categories: ["Java", "Lộ trình học tập"]
 tags: ["Learning path", "Java", "Practice"]
-featuredImage: "/posts/gioi-java-trong-6-thang/1535295203370-Untitled design.jpg"
+featuredImage: "1535295203370-Untitled design.jpg"
 ---
 
 Giỏi Java trong 6 tháng không phải là điều không thể, miễn là bạn có kế hoạch rõ ràng.

@@ -3,7 +3,7 @@ title: "Nhân duyên tôi đến với ngành lập trình Java"
 date: 2025-10-24
 categories: ["Học tập", "Cảm hứng"]
 tags: ["Java", "Hành trình học tập"]
-featuredImage: "/posts/nhan-duyen-den-voi-java/hoc-lap-trinh-java-cho-nguoi-moi-bat-dau-de-hieu.jpg"
+featuredImage: "hoc-lap-trinh-java-cho-nguoi-moi-bat-dau-de-hieu.jpg"
 ---
 
 Có lẽ ai trong chúng ta cũng từng có một “nhân duyên” nào đó với ngành mình đang theo đuổi.  

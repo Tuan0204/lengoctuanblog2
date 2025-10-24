@@ -7,7 +7,7 @@ categories: ["Java", "Kinh nghiệm học tập"]
 tags: ["Java", "Mistake", "Learning"]
 
 # Use absolute public path so theme can find the image regardless of how resources are resolved
-featuredImage: "/posts/sai-lam-khi-hoc-java/sailam.png"
+featuredImage: "sailam.png"
 slug: "sai-lam-khi-hoc-java"
 
 ---

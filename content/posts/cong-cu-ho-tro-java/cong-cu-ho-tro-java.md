@@ -5,7 +5,7 @@ lastmod: 2025-10-24T12:00:00+07:00
 draft: false
 categories: ["Công cụ", "Java"]
 tags: ["IDE", "Tools", "Java"]
-featuredImage: "/posts/cong-cu-ho-tro-java/top-10-ide-java-2020-63739066014.6665.jpg"
+featuredImage: "top-10-ide-java-2020-63739066014.6665.jpg"
 slug: "cong-cu-ho-tro-java"
 
 ---

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog Học Tập on My Blog</title>
-    <link>https://example.com/categories/blog-h%E1%BB%8Dc-t%E1%BA%ADp/</link>
+    <link>http://localhost:51458/categories/blog-h%E1%BB%8Dc-t%E1%BA%ADp/</link>
     <description>Recent content in Blog Học Tập on My Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,12 +10,12 @@
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 13:46:57 +0700</lastBuildDate>
-    <atom:link href="https://example.com/categories/blog-h%E1%BB%8Dc-t%E1%BA%ADp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51458/categories/blog-h%E1%BB%8Dc-t%E1%BA%ADp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Học Java – Hành trình trở thành lập trình viên vững vàng và truyền cảm hứng</title>
-      <link>https://example.com/java-hanh-trinh-hoc-tap/</link>
+      <link>http://localhost:51458/java-hanh-trinh-hoc-tap/</link>
       <pubDate>Thu, 23 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/java-hanh-trinh-hoc-tap/</guid>
+      <guid>http://localhost:51458/java-hanh-trinh-hoc-tap/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“Việc học lập trình không phải là học để viết code, mà là học cách &lt;strong&gt;suy nghĩ như một lập trình viên&lt;/strong&gt;.”&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Khi tôi bắt đầu với Java, tôi không biết gì ngoài những dòng chữ đen trên nền trắng của IDE.&lt;br&gt;&#xA;Nhưng càng đi sâu, tôi càng nhận ra — Java không chỉ là ngôn ngữ, mà còn là &lt;strong&gt;một hành trình trưởng thành trong tư duy&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

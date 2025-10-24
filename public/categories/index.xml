@@ -9,8 +9,78 @@
     <managingEditor>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</managingEditor>
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 24 Oct 2025 13:46:57 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 14:00:00 +0700</lastBuildDate>
     <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Học Lập Trình</title>
+      <link>https://example.com/categories/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <pubDate>Fri, 24 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
+      <guid>https://example.com/categories/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Công Cụ</title>
+      <link>https://example.com/categories/c%C3%B4ng-c%E1%BB%A5/</link>
+      <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
+      <guid>https://example.com/categories/c%C3%B4ng-c%E1%BB%A5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Định Hướng Nghề Nghiệp</title>
+      <link>https://example.com/categories/%C4%91%E1%BB%8Bnh-h%C6%B0%E1%BB%9Bng-ngh%E1%BB%81-nghi%E1%BB%87p/</link>
+      <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
+      <guid>https://example.com/categories/%C4%91%E1%BB%8Bnh-h%C6%B0%E1%BB%9Bng-ngh%E1%BB%81-nghi%E1%BB%87p/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://example.com/categories/java/</link>
+      <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
+      <guid>https://example.com/categories/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kiến Thức Cơ Bản</title>
+      <link>https://example.com/categories/ki%E1%BA%BFn-th%E1%BB%A9c-c%C6%A1-b%E1%BA%A3n/</link>
+      <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
+      <guid>https://example.com/categories/ki%E1%BA%BFn-th%E1%BB%A9c-c%C6%A1-b%E1%BA%A3n/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kinh Nghiệm Học Tập</title>
+      <link>https://example.com/categories/kinh-nghi%E1%BB%87m-h%E1%BB%8Dc-t%E1%BA%ADp/</link>
+      <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
+      <guid>https://example.com/categories/kinh-nghi%E1%BB%87m-h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lập Trình Java</title>
+      <link>https://example.com/categories/l%E1%BA%ADp-tr%C3%ACnh-java/</link>
+      <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
+      <guid>https://example.com/categories/l%E1%BA%ADp-tr%C3%ACnh-java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cảm Hứng</title>
+      <link>https://example.com/categories/c%E1%BA%A3m-h%E1%BB%A9ng/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
+      <guid>https://example.com/categories/c%E1%BA%A3m-h%E1%BB%A9ng/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Học Tập</title>
+      <link>https://example.com/categories/h%E1%BB%8Dc-t%E1%BA%ADp/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
+      <guid>https://example.com/categories/h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lộ Trình Học Tập</title>
+      <link>https://example.com/categories/l%E1%BB%99-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
+      <guid>https://example.com/categories/l%E1%BB%99-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Blog Học Tập</title>
       <link>https://example.com/categories/blog-h%E1%BB%8Dc-t%E1%BA%ADp/</link>

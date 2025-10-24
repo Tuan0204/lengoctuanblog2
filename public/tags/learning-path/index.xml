@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning Path on My Blog</title>
+    <link>https://example.com/tags/learning-path/</link>
+    <description>Recent content in Learning Path on My Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</managingEditor>
+    <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/tags/learning-path/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Làm sao để giỏi Java trong 6 tháng</title>
+      <link>https://example.com/gioi-java-trong-6-thang/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
+      <guid>https://example.com/gioi-java-trong-6-thang/</guid>
+      <description>&lt;p&gt;Giỏi Java trong 6 tháng không phải là điều không thể, miễn là bạn có kế hoạch rõ ràng.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-tháng-12-nền-tảng&#34;&gt;📅 Tháng 1–2: Nền tảng&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Học cú pháp, kiểu dữ liệu, vòng lặp, điều kiện.&lt;/li&gt;&#xA;&lt;li&gt;Hiểu khái niệm OOP (lớp, kế thừa, đa hình&amp;hellip;).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-tháng-34-ứng-dụng-thực-tế&#34;&gt;📅 Tháng 3–4: Ứng dụng thực tế&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Làm việc với Collection, Exception, File I/O.&lt;/li&gt;&#xA;&lt;li&gt;Viết ứng dụng Console đơn giản (ví dụ: quản lý sinh viên).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-tháng-5-học-về-javafx-hoặc-spring-boot&#34;&gt;📅 Tháng 5: Học về JavaFX hoặc Spring Boot&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Nếu thích desktop app → JavaFX.&lt;/li&gt;&#xA;&lt;li&gt;Nếu thích web backend → Spring Boot.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-tháng-6-dự-án-nhỏ--github&#34;&gt;📅 Tháng 6: Dự án nhỏ + GitHub&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tạo project thật sự và public trên GitHub.&lt;/li&gt;&#xA;&lt;li&gt;Viết blog chia sẻ quá trình học (như bài này!).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Quan trọng nhất là: &lt;strong&gt;đừng học để “thuộc lòng”&lt;/strong&gt;, mà hãy học để &lt;strong&gt;hiểu bản chất&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -740,7 +740,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     guessSyntax = false
     lineNos = false
     lineNumbersInTable = true
-    noClasses = true
+    noClasses = false
+    style = "monokai"
   # Goldmark is from Hugo 0.60 the default library used for Markdown
   # Goldmark 是 Hugo 0.60 以来的默认 Markdown 解析库
   [markup.goldmark]

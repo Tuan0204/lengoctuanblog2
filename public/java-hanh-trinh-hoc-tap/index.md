@@ -1,38 +1,5 @@
----
-weight: 1
-title: "Học Java – Hành trình trở thành lập trình viên vững vàng và truyền cảm hứng"
-subtitle: "Từ những dòng code đầu tiên đến tư duy lập trình chuyên nghiệp"
-date: 2020-03-06T21:29:01+08:00
-lastmod: 2020-03-06T21:29:01+08:00
-draft: false
-author: "Le Ngoc Tuan"
-authorLink: ""
-description: "Java không chỉ là ngôn ngữ lập trình, mà còn là người thầy dạy bạn kiên nhẫn, tư duy logic và đam mê học hỏi."
-tags:
-  - Java
-  - Lập trình
-  - Học tập
-  - Truyền cảm hứng
-categories:
-  - Blog học tập
-featuredImage: "java-learning-banner.jpg"
-featuredImagePreview: "java-learning-preview.jpg"
-hiddenFromHomePage: false
-hiddenFromSearch: false
-twemoji: false
-lightgallery: true
-fontawesome: true
-toc:
-  enable: true
-  auto: true
-code:
-  copy: true
-  maxShownLines: 50
-share:
-  enable: true
-comment:
-  enable: true
----
+# Học Java – Hành trình trở thành lập trình viên vững vàng và truyền cảm hứng
+
 
 > “Việc học lập trình không phải là học để viết code, mà là học cách **suy nghĩ như một lập trình viên**.”  
 

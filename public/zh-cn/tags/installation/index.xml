@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>安装 on LoveIt</title>
-    <link>http://localhost:1313/zh-cn/tags/installation/</link>
-    <description>Recent content in 安装 on LoveIt</description>
+    <title>安装 on My Blog</title>
+    <link>https://example.com/zh-cn/tags/installation/</link>
+    <description>Recent content in 安装 on My Blog</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <managingEditor>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</managingEditor>
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <atom:link href="http://localhost:1313/zh-cn/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/zh-cn/tags/installation/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

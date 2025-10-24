@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown on LoveIt</title>
+    <title>Markdown on My Blog</title>
     <link>http://localhost:1313/zh-cn/categories/markdown/</link>
-    <description>Recent content in Markdown on LoveIt</description>
+    <description>Recent content in Markdown on My Blog</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <managingEditor>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</managingEditor>

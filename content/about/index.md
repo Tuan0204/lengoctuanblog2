@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-title: "Giới thiệu"
+
 date: 2019-08-02T11:04:49+08:00
 draft: false
 description: "Giới thiệu về tôi — Lê Ngọc Tuấn. Thông tin liên hệ, học vấn, chứng chỉ và kinh nghiệm." 

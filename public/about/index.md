@@ -1,4 +1,4 @@
-# Giới thiệu
+# About Me
 
 
 {{< style "img { height: 1.25rem; }" >}}{{< /style >}}

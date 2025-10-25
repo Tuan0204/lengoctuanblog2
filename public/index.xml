@@ -1,17 +1,17 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>My Blog</title>
-        <link>https://example.com/</link>
+        <link>http://localhost:50117/</link>
         <description>Hugo theme - LoveIt</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</managingEditor>
             <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 24 Oct 2025 14:00:00 &#43;0700</lastBuildDate>
-            <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="http://localhost:50117/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Học Java – Hành trình trở thành lập trình viên vững vàng và truyền cảm hứng</title>
-    <link>https://example.com/java-hanh-trinh-hoc-tap/</link>
+    <link>http://localhost:50117/java-hanh-trinh-hoc-tap/</link>
     <pubDate>Thu, 23 Oct 2025 14:00:00 &#43;0700</pubDate>
     <author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-    <guid>https://example.com/java-hanh-trinh-hoc-tap/</guid>
+    <guid>http://localhost:50117/java-hanh-trinh-hoc-tap/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/java-learning-banner.jpg" referrerpolicy="no-referrer">
             </div><blockquote>
@@ -22,20 +22,20 @@ Nhưng càng đi sâu, tôi càng nhận ra — Java không chỉ là ngôn ng�
 </item>
 <item>
     <title>Học Java như thế nào để không bỏ cuộc giữa chừng?</title>
-    <link>https://example.com/bi-quyet-hoc-java-hieu-qua/</link>
+    <link>http://localhost:50117/bi-quyet-hoc-java-hieu-qua/</link>
     <pubDate>Fri, 24 Oct 2025 14:00:00 &#43;0700</pubDate>
     <author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-    <guid>https://example.com/bi-quyet-hoc-java-hieu-qua/</guid>
+    <guid>http://localhost:50117/bi-quyet-hoc-java-hieu-qua/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/nhung-kho-khan-khi-hoc-tieng-anh-va-cach-khac-phuc.jpg" referrerpolicy="no-referrer">
             </div>Lộ trình thực tế để học Java bền vững: từ nền tảng, OOP, thư viện chuẩn đến làm dự án — cùng chiến lược giữ động lực.]]></description>
 </item>
 <item>
     <title>10 công cụ hỗ trợ lập trình Java hiệu quả</title>
-    <link>https://example.com/cong-cu-ho-tro-java/</link>
+    <link>http://localhost:50117/cong-cu-ho-tro-java/</link>
     <pubDate>Fri, 24 Oct 2025 12:00:00 &#43;0700</pubDate>
     <author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-    <guid>https://example.com/cong-cu-ho-tro-java/</guid>
+    <guid>http://localhost:50117/cong-cu-ho-tro-java/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/top-10-ide-java-2020-63739066014.6665.jpg" referrerpolicy="no-referrer">
             </div><p>Để lập trình Java hiệu quả, bạn cần những công cụ tốt.<br>
@@ -56,20 +56,20 @@ Dưới đây là <strong>10 công cụ mà bất kỳ lập trình viên Java n
 </item>
 <item>
     <title>Con đường chinh phục Java – Từ người mới đến lập trình viên chuyên nghiệp</title>
-    <link>https://example.com/hoc-java-hieu-sau/</link>
+    <link>http://localhost:50117/hoc-java-hieu-sau/</link>
     <pubDate>Fri, 24 Oct 2025 12:00:00 &#43;0700</pubDate>
     <author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-    <guid>https://example.com/hoc-java-hieu-sau/</guid>
+    <guid>http://localhost:50117/hoc-java-hieu-sau/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/a161501cdf14eaba81addec865efbade.jpg" referrerpolicy="no-referrer">
             </div>Một hành trình dài từ những dòng code đầu tiên đến việc trở thành lập trình viên Java chuyên nghiệp — cùng chia sẻ những bài học, công cụ và tư duy cần thiết.]]></description>
 </item>
 <item>
     <title>Học Java để làm gì trong tương lai?</title>
-    <link>https://example.com/hoc-java-de-lam-gi/</link>
+    <link>http://localhost:50117/hoc-java-de-lam-gi/</link>
     <pubDate>Fri, 24 Oct 2025 12:00:00 &#43;0700</pubDate>
     <author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-    <guid>https://example.com/hoc-java-de-lam-gi/</guid>
+    <guid>http://localhost:50117/hoc-java-de-lam-gi/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/lap-trinh-java-cho-nhung-nguoi-moi-bat-dau-hoc-java-de-lam-gi.png" referrerpolicy="no-referrer">
             </div><p>Rất nhiều sinh viên hỏi: “Học Java rồi thì làm gì được?”<br>
@@ -83,10 +83,10 @@ Câu trả lời ngắn gọn: <strong>rất nhiều thứ</strong>.</p>
 </item>
 <item>
     <title>Những sai lầm phổ biến khi học Java</title>
-    <link>https://example.com/sai-lam-khi-hoc-java/</link>
+    <link>http://localhost:50117/sai-lam-khi-hoc-java/</link>
     <pubDate>Fri, 24 Oct 2025 12:00:00 &#43;0700</pubDate>
     <author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-    <guid>https://example.com/sai-lam-khi-hoc-java/</guid>
+    <guid>http://localhost:50117/sai-lam-khi-hoc-java/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/sailam.png" referrerpolicy="no-referrer">
             </div><p>Học lập trình Java không khó, nhưng cũng chẳng dễ.<br>
@@ -100,10 +100,10 @@ Hãy viết code mỗi ngày, dù chỉ là những chương trình nhỏ.</p>
 </item>
 <item>
     <title>Vì sao nên bắt đầu với Java khi học lập trình</title>
-    <link>https://example.com/vi-sao-nen-hoc-java/</link>
+    <link>http://localhost:50117/vi-sao-nen-hoc-java/</link>
     <pubDate>Fri, 24 Oct 2025 12:00:00 &#43;0700</pubDate>
     <author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-    <guid>https://example.com/vi-sao-nen-hoc-java/</guid>
+    <guid>http://localhost:50117/vi-sao-nen-hoc-java/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="https://cdn.pixabay.com/photo/2015/01/08/18/25/startup-593327_1280.jpg" referrerpolicy="no-referrer">
             </div><p>Khi bắt đầu học lập trình, bạn có thể phân vân giữa rất nhiều lựa chọn: C, Python, C++, hay Java.<br>
@@ -114,10 +114,10 @@ Cú pháp tương tự C++ nhưng loại bỏ nhiều phần phức tạp như c
 </item>
 <item>
     <title>Làm sao để giỏi Java trong 6 tháng</title>
-    <link>https://example.com/gioi-java-trong-6-thang/</link>
+    <link>http://localhost:50117/gioi-java-trong-6-thang/</link>
     <pubDate>Fri, 24 Oct 2025 00:00:00 &#43;0000</pubDate>
     <author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-    <guid>https://example.com/gioi-java-trong-6-thang/</guid>
+    <guid>http://localhost:50117/gioi-java-trong-6-thang/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/1535295203370-Untitled%20design.jpg" referrerpolicy="no-referrer">
             </div><p>Giỏi Java trong 6 tháng không phải là điều không thể, miễn là bạn có kế hoạch rõ ràng.</p>
@@ -145,10 +145,10 @@ Cú pháp tương tự C++ nhưng loại bỏ nhiều phần phức tạp như c
 </item>
 <item>
     <title>Nhân duyên tôi đến với ngành lập trình Java</title>
-    <link>https://example.com/nhan-duyen-den-voi-java/</link>
+    <link>http://localhost:50117/nhan-duyen-den-voi-java/</link>
     <pubDate>Fri, 24 Oct 2025 00:00:00 &#43;0000</pubDate>
     <author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-    <guid>https://example.com/nhan-duyen-den-voi-java/</guid>
+    <guid>http://localhost:50117/nhan-duyen-den-voi-java/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/hoc-lap-trinh-java-cho-nguoi-moi-bat-dau-de-hieu.jpg" referrerpolicy="no-referrer">
             </div><p>Có lẽ ai trong chúng ta cũng từng có một “nhân duyên” nào đó với ngành mình đang theo đuổi.<br>

@@ -2,132 +2,132 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Blog</title>
-    <link>https://example.com/tags/</link>
+    <link>http://localhost:50117/tags/</link>
     <description>Recent content in Tags on My Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</managingEditor>
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 24 Oct 2025 16:39:54 +0700</lastBuildDate>
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Oct 2025 17:07:45 +0700</lastBuildDate>
+    <atom:link href="http://localhost:50117/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Động Lực</title>
-      <link>https://example.com/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/</link>
+      <link>http://localhost:50117/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/</link>
       <pubDate>Fri, 24 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/</guid>
+      <guid>http://localhost:50117/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/</guid>
       <description></description>
     </item>
     <item>
       <title>Học Tập</title>
-      <link>https://example.com/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</link>
+      <link>http://localhost:50117/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</link>
       <pubDate>Fri, 24 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
+      <guid>http://localhost:50117/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>https://example.com/tags/java/</link>
+      <link>http://localhost:50117/tags/java/</link>
       <pubDate>Fri, 24 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/java/</guid>
+      <guid>http://localhost:50117/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Career</title>
-      <link>https://example.com/tags/career/</link>
+      <link>http://localhost:50117/tags/career/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/career/</guid>
+      <guid>http://localhost:50117/tags/career/</guid>
       <description></description>
     </item>
     <item>
       <title>Future</title>
-      <link>https://example.com/tags/future/</link>
+      <link>http://localhost:50117/tags/future/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/future/</guid>
+      <guid>http://localhost:50117/tags/future/</guid>
       <description></description>
     </item>
     <item>
       <title>IDE</title>
-      <link>https://example.com/tags/ide/</link>
+      <link>http://localhost:50117/tags/ide/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/ide/</guid>
+      <guid>http://localhost:50117/tags/ide/</guid>
       <description></description>
     </item>
     <item>
       <title>Kinh Nghiệm</title>
-      <link>https://example.com/tags/kinh-nghi%E1%BB%87m/</link>
+      <link>http://localhost:50117/tags/kinh-nghi%E1%BB%87m/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/kinh-nghi%E1%BB%87m/</guid>
+      <guid>http://localhost:50117/tags/kinh-nghi%E1%BB%87m/</guid>
       <description></description>
     </item>
     <item>
       <title>Lập Trình</title>
-      <link>https://example.com/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <link>http://localhost:50117/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      <guid>http://localhost:50117/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
       <description></description>
     </item>
     <item>
       <title>Learning</title>
-      <link>https://example.com/tags/learning/</link>
+      <link>http://localhost:50117/tags/learning/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/learning/</guid>
+      <guid>http://localhost:50117/tags/learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Mistake</title>
-      <link>https://example.com/tags/mistake/</link>
+      <link>http://localhost:50117/tags/mistake/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/mistake/</guid>
+      <guid>http://localhost:50117/tags/mistake/</guid>
       <description></description>
     </item>
     <item>
       <title>Newbie</title>
-      <link>https://example.com/tags/newbie/</link>
+      <link>http://localhost:50117/tags/newbie/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/newbie/</guid>
+      <guid>http://localhost:50117/tags/newbie/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>https://example.com/tags/programming/</link>
+      <link>http://localhost:50117/tags/programming/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/programming/</guid>
+      <guid>http://localhost:50117/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>https://example.com/tags/tools/</link>
+      <link>http://localhost:50117/tags/tools/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/tools/</guid>
+      <guid>http://localhost:50117/tags/tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Hành Trình Học Tập</title>
-      <link>https://example.com/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</link>
+      <link>http://localhost:50117/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
+      <guid>http://localhost:50117/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
       <description></description>
     </item>
     <item>
       <title>Learning Path</title>
-      <link>https://example.com/tags/learning-path/</link>
+      <link>http://localhost:50117/tags/learning-path/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/learning-path/</guid>
+      <guid>http://localhost:50117/tags/learning-path/</guid>
       <description></description>
     </item>
     <item>
       <title>Practice</title>
-      <link>https://example.com/tags/practice/</link>
+      <link>http://localhost:50117/tags/practice/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/practice/</guid>
+      <guid>http://localhost:50117/tags/practice/</guid>
       <description></description>
     </item>
     <item>
       <title>Truyền Cảm Hứng</title>
-      <link>https://example.com/tags/truy%E1%BB%81n-c%E1%BA%A3m-h%E1%BB%A9ng/</link>
+      <link>http://localhost:50117/tags/truy%E1%BB%81n-c%E1%BA%A3m-h%E1%BB%A9ng/</link>
       <pubDate>Thu, 23 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/truy%E1%BB%81n-c%E1%BA%A3m-h%E1%BB%A9ng/</guid>
+      <guid>http://localhost:50117/tags/truy%E1%BB%81n-c%E1%BA%A3m-h%E1%BB%A9ng/</guid>
       <description></description>
     </item>
   </channel>

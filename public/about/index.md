@@ -7,16 +7,18 @@
 
 > Tôi là Lê Ngọc Tuấn — sinh viên ngành Công nghệ Thông tin, đam mê Machine Learning, Data Science và phát triển phần mềm. Mục tiêu của tôi là áp dụng Python và kỹ thuật học máy để giải quyết các bài toán thực tế.
 
+<div class="about-portrait" style="float:right;max-width:320px;margin:0 0 1rem 1rem;">
+  <img src="profile.jpg" alt="Ảnh chân dung Lê Ngọc Tuấn" style="width:100%;height:auto;border-radius:8px;" >
+  <p style="font-size:0.95rem;margin-top:0.4rem;"></p>
+</div>
+
 ## Thông tin liên hệ
 
 - :(fas fa-phone fa-fw): 0799471866
 - :(far fa-envelope fa-fw): lengoctuanldk@gmail.com
 - :(fas fa-map-marker-alt fa-fw): 220/21/5 Nguyễn Văn Khói, Quận ... , TP. HCM
 
-<div class="about-portrait" style="float:right;max-width:320px;margin:0 0 1rem 1rem;">
-  <img src="profile.jpg" alt="Ảnh chân dung Lê Ngọc Tuấn" style="width:100%;height:auto;border-radius:8px;" >
-  <p style="font-size:0.95rem;margin-top:0.4rem;"></p>
-</div>
+
 
 
 ## Học vấn
@@ -52,6 +54,7 @@
 </div>
 
 ## Về Tôi
+
 
 Tôi là Lê Ngọc Tuấn, một sinh viên chuyên ngành Công nghệ Thông tin với niềm đam mê sâu sắc về Machine Learning, Data Science và phát triển phần mềm. Tôi tin rằng công nghệ không chỉ là công cụ — mà còn là phương tiện để giải quyết những vấn đề thực tế, tạo ra giá trị cho con người và doanh nghiệp. Với nền tảng vững chắc về lập trình Python và tư duy phân tích, tôi luôn hướng đến việc biến dữ liệu thành những giải pháp thông minh, có thể triển khai được.
 

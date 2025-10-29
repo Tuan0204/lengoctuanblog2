@@ -2,42 +2,42 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:50117/zh-cn/categories/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/zh-cn/categories/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:50117/categories/"
+                        href="http://localhost:1313/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="http://localhost:50117/zh-cn/categories/"
+                    href="http://localhost:1313/zh-cn/categories/"
                     /></url><url>
-            <loc>http://localhost:50117/zh-cn/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>http://localhost:1313/zh-cn/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:50117/"
+                        href="http://localhost:1313/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="http://localhost:50117/zh-cn/"
+                    href="http://localhost:1313/zh-cn/"
                     /></url><url>
-            <loc>http://localhost:50117/zh-cn/tags/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/zh-cn/tags/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:50117/tags/"
+                        href="http://localhost:1313/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="http://localhost:50117/zh-cn/tags/"
+                    href="http://localhost:1313/zh-cn/tags/"
                     /></url><url>
-            <loc>http://localhost:50117/zh-cn/tags/installation/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:50117/zh-cn/tags/content/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:50117/zh-cn/tags/configuration/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:50117/zh-cn/categories/documentation/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:1313/zh-cn/tags/installation/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/zh-cn/tags/content/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/zh-cn/tags/configuration/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:1313/zh-cn/categories/documentation/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://localhost:50117/categories/documentation/"
+                        href="http://localhost:1313/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="http://localhost:50117/zh-cn/categories/documentation/"
+                    href="http://localhost:1313/zh-cn/categories/documentation/"
                     /></url></urlset>

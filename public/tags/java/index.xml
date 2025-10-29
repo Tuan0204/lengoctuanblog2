@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on My Blog</title>
-    <link>http://localhost:1313/tags/java/</link>
+    <link>https://example.com/tags/java/</link>
     <description>Recent content in Java on My Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,68 +10,68 @@
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 17:07:45 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Học Java – Hành trình trở thành lập trình viên vững vàng và truyền cảm hứng</title>
-      <link>http://localhost:1313/java-hanh-trinh-hoc-tap/</link>
+      <link>https://example.com/java-hanh-trinh-hoc-tap/</link>
       <pubDate>Thu, 23 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/java-hanh-trinh-hoc-tap/</guid>
+      <guid>https://example.com/java-hanh-trinh-hoc-tap/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“Việc học lập trình không phải là học để viết code, mà là học cách &lt;strong&gt;suy nghĩ như một lập trình viên&lt;/strong&gt;.”&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Khi tôi bắt đầu với Java, tôi không biết gì ngoài những dòng chữ đen trên nền trắng của IDE.&lt;br&gt;&#xA;Nhưng càng đi sâu, tôi càng nhận ra — Java không chỉ là ngôn ngữ, mà còn là &lt;strong&gt;một hành trình trưởng thành trong tư duy&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Học Java như thế nào để không bỏ cuộc giữa chừng?</title>
-      <link>http://localhost:1313/bi-quyet-hoc-java-hieu-qua/</link>
+      <link>https://example.com/bi-quyet-hoc-java-hieu-qua/</link>
       <pubDate>Fri, 24 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/bi-quyet-hoc-java-hieu-qua/</guid>
+      <guid>https://example.com/bi-quyet-hoc-java-hieu-qua/</guid>
       <description>Lộ trình thực tế để học Java bền vững: từ nền tảng, OOP, thư viện chuẩn đến làm dự án — cùng chiến lược giữ động lực.</description>
     </item>
     <item>
       <title>10 công cụ hỗ trợ lập trình Java hiệu quả</title>
-      <link>http://localhost:1313/cong-cu-ho-tro-java/</link>
+      <link>https://example.com/cong-cu-ho-tro-java/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/cong-cu-ho-tro-java/</guid>
+      <guid>https://example.com/cong-cu-ho-tro-java/</guid>
       <description>&lt;p&gt;Để lập trình Java hiệu quả, bạn cần những công cụ tốt.&lt;br&gt;&#xA;Dưới đây là &lt;strong&gt;10 công cụ mà bất kỳ lập trình viên Java nào cũng nên biết&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;IntelliJ IDEA&lt;/strong&gt; – IDE mạnh mẽ, hỗ trợ AI code completion.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Eclipse&lt;/strong&gt; – Miễn phí, phổ biến trong học tập.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;VS Code&lt;/strong&gt; – Nhẹ, đa ngôn ngữ.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Maven/Gradle&lt;/strong&gt; – Quản lý dependency dễ dàng.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Git + GitHub&lt;/strong&gt; – Không thể thiếu để lưu trữ và chia sẻ code.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Postman&lt;/strong&gt; – Test API cực nhanh.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Docker&lt;/strong&gt; – Triển khai app Java dễ dàng.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;JRebel&lt;/strong&gt; – Tự động reload code khi thay đổi.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lombok&lt;/strong&gt; – Giảm boilerplate code.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Spring Boot DevTools&lt;/strong&gt; – Tăng tốc phát triển web app.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Công cụ chỉ là trợ thủ — người làm chủ vẫn là bạn!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Con đường chinh phục Java – Từ người mới đến lập trình viên chuyên nghiệp</title>
-      <link>http://localhost:1313/hoc-java-hieu-sau/</link>
+      <link>https://example.com/hoc-java-hieu-sau/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/hoc-java-hieu-sau/</guid>
+      <guid>https://example.com/hoc-java-hieu-sau/</guid>
       <description>Một hành trình dài từ những dòng code đầu tiên đến việc trở thành lập trình viên Java chuyên nghiệp — cùng chia sẻ những bài học, công cụ và tư duy cần thiết.</description>
     </item>
     <item>
       <title>Học Java để làm gì trong tương lai?</title>
-      <link>http://localhost:1313/hoc-java-de-lam-gi/</link>
+      <link>https://example.com/hoc-java-de-lam-gi/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/hoc-java-de-lam-gi/</guid>
+      <guid>https://example.com/hoc-java-de-lam-gi/</guid>
       <description>&lt;p&gt;Rất nhiều sinh viên hỏi: “Học Java rồi thì làm gì được?”&lt;br&gt;&#xA;Câu trả lời ngắn gọn: &lt;strong&gt;rất nhiều thứ&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-1-lập-trình-viên-backend&#34;&gt;💼 1. Lập trình viên backend&lt;/h3&gt;&#xA;&lt;p&gt;Java là nền tảng của hàng nghìn hệ thống lớn (ngân hàng, bảo hiểm, thương mại điện tử&amp;hellip;).&lt;/p&gt;&#xA;&lt;h3 id=&#34;-2-lập-trình-android&#34;&gt;📱 2. Lập trình Android&lt;/h3&gt;&#xA;&lt;p&gt;Kết hợp với Kotlin, Java vẫn là một trong hai ngôn ngữ chính để viết ứng dụng Android.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-3-cloud--microservices&#34;&gt;☁️ 3. Cloud &amp;amp; Microservices&lt;/h3&gt;&#xA;&lt;p&gt;Java kết hợp với Spring Cloud, Docker, Kubernetes để xây dựng ứng dụng phân tán.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Những sai lầm phổ biến khi học Java</title>
-      <link>http://localhost:1313/sai-lam-khi-hoc-java/</link>
+      <link>https://example.com/sai-lam-khi-hoc-java/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/sai-lam-khi-hoc-java/</guid>
+      <guid>https://example.com/sai-lam-khi-hoc-java/</guid>
       <description>&lt;p&gt;Học lập trình Java không khó, nhưng cũng chẳng dễ.&lt;br&gt;&#xA;Rất nhiều người bỏ cuộc giữa chừng vì &lt;strong&gt;mắc phải những sai lầm cơ bản&lt;/strong&gt; mà không nhận ra.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-1-học-mà-không-thực-hành&#34;&gt;❌ 1. Học mà không thực hành&lt;/h3&gt;&#xA;&lt;p&gt;Lý thuyết quan trọng, nhưng &lt;strong&gt;thực hành mới giúp bạn nhớ lâu&lt;/strong&gt;.&lt;br&gt;&#xA;Hãy viết code mỗi ngày, dù chỉ là những chương trình nhỏ.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-2-cố-gắng-hiểu-mọi-thứ-một-lúc&#34;&gt;❌ 2. Cố gắng hiểu mọi thứ một lúc&lt;/h3&gt;&#xA;&lt;p&gt;Java có hàng trăm khái niệm: OOP, Thread, Stream API, Collection&amp;hellip;&lt;br&gt;&#xA;Đừng ôm đồm. Hãy học từng phần, có ví dụ, và áp dụng thực tế.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vì sao nên bắt đầu với Java khi học lập trình</title>
-      <link>http://localhost:1313/vi-sao-nen-hoc-java/</link>
+      <link>https://example.com/vi-sao-nen-hoc-java/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/vi-sao-nen-hoc-java/</guid>
+      <guid>https://example.com/vi-sao-nen-hoc-java/</guid>
       <description>&lt;p&gt;Khi bắt đầu học lập trình, bạn có thể phân vân giữa rất nhiều lựa chọn: C, Python, C++, hay Java.&lt;br&gt;&#xA;Vậy tại sao nhiều người lại khuyên bạn &lt;strong&gt;bắt đầu với Java&lt;/strong&gt;?&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-cú-pháp-rõ-ràng-dễ-hiểu&#34;&gt;1. Cú pháp rõ ràng, dễ hiểu&lt;/h3&gt;&#xA;&lt;p&gt;Java có cấu trúc chặt chẽ, giúp người mới học hiểu rõ cách máy tính “suy nghĩ”.&lt;br&gt;&#xA;Cú pháp tương tự C++ nhưng loại bỏ nhiều phần phức tạp như con trỏ, quản lý bộ nhớ thủ công&amp;hellip;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Làm sao để giỏi Java trong 6 tháng</title>
-      <link>http://localhost:1313/gioi-java-trong-6-thang/</link>
+      <link>https://example.com/gioi-java-trong-6-thang/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/gioi-java-trong-6-thang/</guid>
+      <guid>https://example.com/gioi-java-trong-6-thang/</guid>
       <description>&lt;p&gt;Giỏi Java trong 6 tháng không phải là điều không thể, miễn là bạn có kế hoạch rõ ràng.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-tháng-12-nền-tảng&#34;&gt;📅 Tháng 1–2: Nền tảng&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Học cú pháp, kiểu dữ liệu, vòng lặp, điều kiện.&lt;/li&gt;&#xA;&lt;li&gt;Hiểu khái niệm OOP (lớp, kế thừa, đa hình&amp;hellip;).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-tháng-34-ứng-dụng-thực-tế&#34;&gt;📅 Tháng 3–4: Ứng dụng thực tế&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Làm việc với Collection, Exception, File I/O.&lt;/li&gt;&#xA;&lt;li&gt;Viết ứng dụng Console đơn giản (ví dụ: quản lý sinh viên).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-tháng-5-học-về-javafx-hoặc-spring-boot&#34;&gt;📅 Tháng 5: Học về JavaFX hoặc Spring Boot&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Nếu thích desktop app → JavaFX.&lt;/li&gt;&#xA;&lt;li&gt;Nếu thích web backend → Spring Boot.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-tháng-6-dự-án-nhỏ--github&#34;&gt;📅 Tháng 6: Dự án nhỏ + GitHub&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tạo project thật sự và public trên GitHub.&lt;/li&gt;&#xA;&lt;li&gt;Viết blog chia sẻ quá trình học (như bài này!).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Quan trọng nhất là: &lt;strong&gt;đừng học để “thuộc lòng”&lt;/strong&gt;, mà hãy học để &lt;strong&gt;hiểu bản chất&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nhân duyên tôi đến với ngành lập trình Java</title>
-      <link>http://localhost:1313/nhan-duyen-den-voi-java/</link>
+      <link>https://example.com/nhan-duyen-den-voi-java/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/nhan-duyen-den-voi-java/</guid>
+      <guid>https://example.com/nhan-duyen-den-voi-java/</guid>
       <description>&lt;p&gt;Có lẽ ai trong chúng ta cũng từng có một “nhân duyên” nào đó với ngành mình đang theo đuổi.&lt;br&gt;&#xA;Với tôi, hành trình đến với &lt;strong&gt;Java&lt;/strong&gt; bắt đầu không phải bằng đam mê mãnh liệt, mà là &lt;strong&gt;sự tò mò và một chút định mệnh&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Hồi năm đầu đại học, tôi từng không biết gì về lập trình. Nhưng khi tham gia một buổi workshop nhỏ về “Xây dựng ứng dụng bằng Java”, tôi bị cuốn hút bởi cách những dòng lệnh có thể tạo ra những điều thật hữu ích.&lt;br&gt;&#xA;Tôi bắt đầu tìm hiểu từ những điều cơ bản: biến, vòng lặp, class, object&amp;hellip; Và rồi càng học càng thấy thích.&lt;/p&gt;</description>
     </item>
   </channel>

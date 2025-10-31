@@ -81,12 +81,12 @@ Tôi luôn sẵn sàng hợp tác trong các dự án về phân tích dữ li�
 </style>
 
 <div class="project-gallery">
-  <img src="/rap_phim_1.png" alt="Giao diện rạp phim 1" />
-  <img src="/rap_phim_2.png" alt="Giao diện rạp phim 2" />
-  <img src="/rap_phim_3.png" alt="Giao diện rạp phim 3" />
-  <img src="/rap_phim_4.png" alt="Giao diện rạp phim 4" />
-  <img src="/rap_phim_5.png" alt="Giao diện rạp phim 5" />
-  <img src="/rap_phim_6.png" alt="Giao diện rạp phim 6" />
+  <img src="rap_phim_1.png" alt="Giao diện rạp phim 1" />
+  <img src="rap_phim_2.png" alt="Giao diện rạp phim 2" />
+  <img src="rap_phim_3.png" alt="Giao diện rạp phim 3" />
+  <img src="rap_phim_4.png" alt="Giao diện rạp phim 4" />
+  <img src="rap_phim_5.png" alt="Giao diện rạp phim 5" />
+  <img src="rap_phim_6.png" alt="Giao diện rạp phim 6" />
 </div>
 
 <p><a class="btn-link" href="https://github.com/pdtuan04/RapPhim" target="_blank" rel="noopener">Xem mã nguồn trên GitHub</a></p>
@@ -103,12 +103,12 @@ Tôi luôn sẵn sàng hợp tác trong các dự án về phân tích dữ li�
 
 - Học phần: Công Nghệ Phần Mềm — Thời gian: Tháng 5/2025 - Tháng 6/2025
 <div class="project-gallery">
-  <img src="/lai_xe_1.png" alt="Giao diện luyện lái 1" />
-  <img src="/lai_xe_2.png" alt="Giao diện luyện lái 2" />
-  <img src="/lai_xe_3.png" alt="Giao diện luyện lái 3" />
-  <img src="/lai_xe_4.png" alt="Giao diện luyện lái 4" />
-  <img src="/lai_xe_5.png" alt="Giao diện luyện lái 5" />
-  <img src="/lai_xe_6.png" alt="Giao diện luyện lái 6" />
+  <img src="lai_xe_1.png" alt="Giao diện luyện lái 1" />
+  <img src="lai_xe_2.png" alt="Giao diện luyện lái 2" />
+  <img src="lai_xe_3.png" alt="Giao diện luyện lái 3" />
+  <img src="lai_xe_4.png" alt="Giao diện luyện lái 4" />
+  <img src="lai_xe_5.png" alt="Giao diện luyện lái 5" />
+  <img src="lai_xe_6.png" alt="Giao diện luyện lái 6" />
 </div>
 
 <p><a class="btn-link" href="https://github.com/pdtuan04/DoAnCNPM" target="_blank" rel="noopener">Xem mã nguồn trên GitHub</a></p>

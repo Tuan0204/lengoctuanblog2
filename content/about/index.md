@@ -78,10 +78,59 @@ Tôi đã thực hiện một số dự án tiêu biểu liên quan đến phân
 
 Tôi luôn sẵn sàng hợp tác trong các dự án về phân tích dữ liệu, học máy và phát triển phần mềm. Nếu bạn có ý tưởng hoặc cơ hội thực tập/hợp tác, hãy liên hệ với tôi — tôi mong muốn học hỏi, đóng góp và cùng tạo ra sản phẩm có tác động.
 
-## Kinh nghiệm nổi bật
+## Các Dự Án Đã Tham Gia
 
-- :(fas fa-check-circle fa-fw): Customer Review Sentiment Classification — Sử dụng Python, scikit-learn/TensorFlow để phân loại cảm xúc từ dữ liệu review.
-- :(fas fa-check-circle fa-fw): Hotel Booking Cancellation Prediction — Xây dựng mô hình dự báo hủy phòng, tích hợp vào hệ thống quản lý.
+### Quản Lý Rạp Chiếu Phim
+
+- Học phần: Lập Trình Trên Môi Trường Window — Thời gian: Tháng 12/2025 - Tháng 1/2026
+<style>
+.project-gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:0.6rem;margin:0.6rem 0;}
+@media (max-width:900px){.project-gallery{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:480px){.project-gallery{grid-template-columns:1fr}}
+.project-gallery img{width:100%;height:auto;border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.12);display:block}
+.btn-link{display:inline-block;background:#007bff;color:#fff;padding:0.45rem .8rem;border-radius:6px;text-decoration:none;font-weight:600;margin-top:0.5rem}
+</style>
+
+<div class="project-gallery">
+  <img src="/rap_phim_1.png" alt="Giao diện rạp phim 1" />
+  <img src="/rap_phim_2.png" alt="Giao diện rạp phim 2" />
+  <img src="/rap_phim_3.png" alt="Giao diện rạp phim 3" />
+  <img src="/rap_phim_4.png" alt="Giao diện rạp phim 4" />
+  <img src="/rap_phim_5.png" alt="Giao diện rạp phim 5" />
+  <img src="/rap_phim_6.png" alt="Giao diện rạp phim 6" />
+</div>
+
+<p><a class="btn-link" href="https://github.com/pdtuan04/RapPhim" target="_blank" rel="noopener">Xem mã nguồn trên GitHub</a></p>
+
+<lead >
+- Vai trò: Thành viên nhóm, chịu trách nhiệm thiết kế giao diện và xử lý nghiệp vụ cho các form quản lý lịch chiếu và bán vé.
+- Mô tả: Ứng dụng desktop giúp tự động hóa công việc vận hành tại rạp chiếu (đặt vé, quản lý lịch, báo cáo doanh thu), tối ưu quy trình phục vụ và theo dõi doanh thu theo ca.
+- Những việc tôi thực hiện: thiết kế và lập trình UI cho form quản lý lịch chiếu/bán vé, triển khai logic xử lý nghiệp vụ, kết nối và đồng bộ hóa dữ liệu với cơ sở dữ liệu để đảm bảo lưu trữ/truy xuất chính xác.
+- Công nghệ: C#, .NET WinForms, SQL (hệ quản trị cơ sở dữ liệu), các thư viện xử lý UI và thao tác dữ liệu.
+- Điểm học phần: 4.0/4.0
+- Github: mã nguồn dự án được lưu trữ trên GitHub (repo của nhóm).
+
+### Hỗ Trợ Luyện Thi Bằng Lái Xe
+
+- Học phần: Công Nghệ Phần Mềm — Thời gian: Tháng 5/2025 - Tháng 6/2025
+<div class="project-gallery">
+  <img src="/lai_xe_1.png" alt="Giao diện luyện lái 1" />
+  <img src="/lai_xe_2.png" alt="Giao diện luyện lái 2" />
+  <img src="/lai_xe_3.png" alt="Giao diện luyện lái 3" />
+  <img src="/lai_xe_4.png" alt="Giao diện luyện lái 4" />
+  <img src="/lai_xe_5.png" alt="Giao diện luyện lái 5" />
+  <img src="/lai_xe_6.png" alt="Giao diện luyện lái 6" />
+</div>
+
+<p><a class="btn-link" href="https://github.com/pdtuan04/DoAnCNPM" target="_blank" rel="noopener">Xem mã nguồn trên GitHub</a></p>
+
+<lead >
+- Vai trò: Thành viên nhóm phát triển backend và một số phần giao diện người dùng.
+- Mô tả: Nền tảng học trực tuyến hỗ trợ ôn luyện lý thuyết lái xe với bộ câu hỏi mô phỏng, chế độ chấm điểm và theo dõi tiến độ học viên.
+- Những việc tôi thực hiện: xây dựng các API/endpoint để xử lý câu hỏi và kết quả, tích hợp hệ thống với cơ sở dữ liệu, và phối hợp để đảm bảo front-end tương tác mượt mà với backend.
+- Công nghệ: API backend, kết nối cơ sở dữ liệu SQL, RESTful endpoints và các phương thức xử lý dữ liệu đầu vào/đầu ra.
+- Điểm học phần: 4.0/4.0
+- Github: repository dự án chứa mã nguồn backend và hướng dẫn triển khai.
 
 ## Kỹ năng
 
@@ -91,5 +140,12 @@ Tôi luôn sẵn sàng hợp tác trong các dự án về phân tích dữ li�
 - :(fas fa-chart-line fa-fw): Visualization: Matplotlib, Power BI
 
 ---
+
+<div style="margin-top:2.5rem;text-align:center;">
+  <a href="/cv.pdf" download style="display:inline-block;background:#007bff;color:#fff;padding:0.6rem 1rem;border-radius:6px;text-decoration:none;font-weight:600;">
+    <i class="fas fa-download" style="margin-right:0.5rem;"></i> Tải CV của tôi tại đây (PDF)
+  </a>
+  <p style="font-size:0.9rem;margin-top:0.6rem;color:#666;"></p>
+</div>
 
 

@@ -1,4 +1,4 @@
-# Học Java – Hành trình trở thành lập trình viên vững vàng và truyền cảm hứng
+# Học Java – Hành trình trở thành lập trình viên vững vàng
 
 
 > “Việc học lập trình không phải là học để viết code, mà là học cách **suy nghĩ như một lập trình viên**.”  

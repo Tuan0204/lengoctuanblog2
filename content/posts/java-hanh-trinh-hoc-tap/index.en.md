@@ -1,6 +1,6 @@
 ---
 weight: 1
-title: "Học Java – Hành trình trở thành lập trình viên vững vàng và truyền cảm hứng"
+title: "Học Java – Hành trình trở thành lập trình viên vững vàng"
 subtitle: "Từ những dòng code đầu tiên đến tư duy lập trình chuyên nghiệp"
 date: 2025-10-23T14:00:00+07:00
 lastmod: 2025-10-23T14:00:00+07:00
@@ -12,7 +12,6 @@ tags:
   - Java
   - Lập trình
   - Học tập
-  - Truyền cảm hứng
 categories:
   - Blog học tập
 featuredImage: "java-learning-banner.jpg"

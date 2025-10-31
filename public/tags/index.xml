@@ -123,12 +123,5 @@
       <guid>https://example.com/tags/practice/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Truyền Cảm Hứng</title>
-      <link>https://example.com/tags/truy%E1%BB%81n-c%E1%BA%A3m-h%E1%BB%A9ng/</link>
-      <pubDate>Thu, 23 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/tags/truy%E1%BB%81n-c%E1%BA%A3m-h%E1%BB%A9ng/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

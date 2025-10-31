@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Future on My Blog</title>
-    <link>https://example.com/tags/future/</link>
+    <link>http://localhost:1313/tags/future/</link>
     <description>Recent content in Future on My Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,12 +10,12 @@
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 16:39:54 +0700</lastBuildDate>
-    <atom:link href="https://example.com/tags/future/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/future/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Học Java để làm gì trong tương lai?</title>
-      <link>https://example.com/hoc-java-de-lam-gi/</link>
+      <link>http://localhost:1313/hoc-java-de-lam-gi/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/hoc-java-de-lam-gi/</guid>
+      <guid>http://localhost:1313/hoc-java-de-lam-gi/</guid>
       <description>&lt;p&gt;Rất nhiều sinh viên hỏi: “Học Java rồi thì làm gì được?”&lt;br&gt;&#xA;Câu trả lời ngắn gọn: &lt;strong&gt;rất nhiều thứ&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-1-lập-trình-viên-backend&#34;&gt;💼 1. Lập trình viên backend&lt;/h3&gt;&#xA;&lt;p&gt;Java là nền tảng của hàng nghìn hệ thống lớn (ngân hàng, bảo hiểm, thương mại điện tử&amp;hellip;).&lt;/p&gt;&#xA;&lt;h3 id=&#34;-2-lập-trình-android&#34;&gt;📱 2. Lập trình Android&lt;/h3&gt;&#xA;&lt;p&gt;Kết hợp với Kotlin, Java vẫn là một trong hai ngôn ngữ chính để viết ứng dụng Android.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-3-cloud--microservices&#34;&gt;☁️ 3. Cloud &amp;amp; Microservices&lt;/h3&gt;&#xA;&lt;p&gt;Java kết hợp với Spring Cloud, Docker, Kubernetes để xây dựng ứng dụng phân tán.&lt;/p&gt;</description>
     </item>
   </channel>

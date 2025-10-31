@@ -32,21 +32,27 @@
 
 ## Chứng chỉ
 
+<!-- Certificates: responsive grid + lightgallery (click to view) -->
 <div class="certificates">
 
 <style>
-.certificates img{width:150px;height:auto;margin:0.25rem;border-radius:6px;box-shadow:0 2px 6px rgba(0,0,0,0.12);}
-.certificates{display:flex;flex-wrap:wrap;}
+/* Responsive grid for certificates */
+.certificates-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:0.6rem;margin:0.6rem 0}
+@media (max-width:900px){.certificates-grid{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:480px){.certificates-grid{grid-template-columns:1fr}}
+.certificates-grid a{display:block}
+.certificates-grid img{width:100%;height:auto;border-radius:8px;box-shadow:0 6px 18px rgba(0,0,0,0.12);display:block}
+.cert-caption{font-size:0.9rem;color:#444;text-align:center;margin-top:0.35rem}
 </style>
 
-<div class="lightgallery certificates" id="about-certificates">
-  <a href="cert1.png" data-sub-html="Chứng chỉ 1">
+<div class="lightgallery certificates-grid" id="about-certificates" data-lg-thumbnail="true" data-lg-zoom="true">
+  <a href="cert1.png" data-sub-html="&lt;h4&gt;Chứng chỉ 1&lt;/h4&gt;&lt;p&gt;Mô tả ngắn về chứng chỉ nếu cần.&lt;/p&gt;">
     <img src="cert1.png" alt="Chứng chỉ 1" />
   </a>
-  <a href="cert2.png" data-sub-html="Chứng chỉ 2">
+  <a href="cert2.png" data-sub-html="&lt;h4&gt;Chứng chỉ 2&lt;/h4&gt;&lt;p&gt;Mô tả ngắn về chứng chỉ nếu cần.&lt;/p&gt;">
     <img src="cert2.png" alt="Chứng chỉ 2" />
   </a>
-  <a href="cert3.png" data-sub-html="Chứng chỉ 3">
+  <a href="/static/cert3.png" data-sub-html="&lt;h4&gt;Chứng chỉ 3&lt;/h4&gt;&lt;p&gt;Mô tả ngắn về chứng chỉ nếu cần.&lt;/p&gt;">
     <img src="cert3.png" alt="Chứng chỉ 3" />
   </a>
 </div>

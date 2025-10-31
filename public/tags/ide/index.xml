@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IDE on My Blog</title>
-    <link>https://example.com/tags/ide/</link>
+    <link>http://localhost:1313/tags/ide/</link>
     <description>Recent content in IDE on My Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,12 +10,12 @@
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 17:07:45 +0700</lastBuildDate>
-    <atom:link href="https://example.com/tags/ide/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 công cụ hỗ trợ lập trình Java hiệu quả</title>
-      <link>https://example.com/cong-cu-ho-tro-java/</link>
+      <link>http://localhost:1313/cong-cu-ho-tro-java/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>https://example.com/cong-cu-ho-tro-java/</guid>
+      <guid>http://localhost:1313/cong-cu-ho-tro-java/</guid>
       <description>&lt;p&gt;Để lập trình Java hiệu quả, bạn cần những công cụ tốt.&lt;br&gt;&#xA;Dưới đây là &lt;strong&gt;10 công cụ mà bất kỳ lập trình viên Java nào cũng nên biết&lt;/strong&gt;:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;IntelliJ IDEA&lt;/strong&gt; – IDE mạnh mẽ, hỗ trợ AI code completion.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Eclipse&lt;/strong&gt; – Miễn phí, phổ biến trong học tập.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;VS Code&lt;/strong&gt; – Nhẹ, đa ngôn ngữ.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Maven/Gradle&lt;/strong&gt; – Quản lý dependency dễ dàng.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Git + GitHub&lt;/strong&gt; – Không thể thiếu để lưu trữ và chia sẻ code.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Postman&lt;/strong&gt; – Test API cực nhanh.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Docker&lt;/strong&gt; – Triển khai app Java dễ dàng.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;JRebel&lt;/strong&gt; – Tự động reload code khi thay đổi.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Lombok&lt;/strong&gt; – Giảm boilerplate code.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Spring Boot DevTools&lt;/strong&gt; – Tăng tốc phát triển web app.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Công cụ chỉ là trợ thủ — người làm chủ vẫn là bạn!&lt;/p&gt;</description>
     </item>
   </channel>

@@ -148,7 +148,8 @@ Tôi luôn sẵn sàng hợp tác trong các dự án về phân tích dữ li�
 ---
 
 <div style="margin-top:2.5rem;text-align:center;">
-  <a href="/cv.pdf" download style="display:inline-block;background:#007bff;color:#fff;padding:0.6rem 1rem;border-radius:6px;text-decoration:none;font-weight:600;">
+  <!-- Serve from site root; open in new tab and suggest filename for download -->
+  <a href="/cv.pdf" target="_blank" rel="noopener" download="LeNgocTuan_CV.pdf" style="display:inline-block;background:#007bff;color:#fff;padding:0.6rem 1rem;border-radius:6px;text-decoration:none;font-weight:600;">
     <i class="fas fa-download" style="margin-right:0.5rem;"></i> Tải CV của tôi tại đây (PDF)
   </a>
   <p style="font-size:0.9rem;margin-top:0.6rem;color:#666;"></p>

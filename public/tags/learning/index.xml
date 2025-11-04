@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning on My Blog</title>
-    <link>http://localhost:1313/tags/learning/</link>
+    <link>http://localhost:61252/tags/learning/</link>
     <description>Recent content in Learning on My Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,12 +10,12 @@
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 17:07:45 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61252/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Những sai lầm phổ biến khi học Java</title>
-      <link>http://localhost:1313/sai-lam-khi-hoc-java/</link>
+      <link>http://localhost:61252/sai-lam-khi-hoc-java/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/sai-lam-khi-hoc-java/</guid>
+      <guid>http://localhost:61252/sai-lam-khi-hoc-java/</guid>
       <description>&lt;p&gt;Học lập trình Java không khó, nhưng cũng chẳng dễ.&lt;br&gt;&#xA;Rất nhiều người bỏ cuộc giữa chừng vì &lt;strong&gt;mắc phải những sai lầm cơ bản&lt;/strong&gt; mà không nhận ra.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-1-học-mà-không-thực-hành&#34;&gt;❌ 1. Học mà không thực hành&lt;/h3&gt;&#xA;&lt;p&gt;Lý thuyết quan trọng, nhưng &lt;strong&gt;thực hành mới giúp bạn nhớ lâu&lt;/strong&gt;.&lt;br&gt;&#xA;Hãy viết code mỗi ngày, dù chỉ là những chương trình nhỏ.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-2-cố-gắng-hiểu-mọi-thứ-một-lúc&#34;&gt;❌ 2. Cố gắng hiểu mọi thứ một lúc&lt;/h3&gt;&#xA;&lt;p&gt;Java có hàng trăm khái niệm: OOP, Thread, Stream API, Collection&amp;hellip;&lt;br&gt;&#xA;Đừng ôm đồm. Hãy học từng phần, có ví dụ, và áp dụng thực tế.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lập Trình Java on My Blog</title>
-    <link>http://localhost:1313/categories/l%E1%BA%ADp-tr%C3%ACnh-java/</link>
+    <link>http://localhost:61252/categories/l%E1%BA%ADp-tr%C3%ACnh-java/</link>
     <description>Recent content in Lập Trình Java on My Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,12 +10,12 @@
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 16:39:54 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/l%E1%BA%ADp-tr%C3%ACnh-java/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61252/categories/l%E1%BA%ADp-tr%C3%ACnh-java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Con đường chinh phục Java – Từ người mới đến lập trình viên chuyên nghiệp</title>
-      <link>http://localhost:1313/hoc-java-hieu-sau/</link>
+      <link>http://localhost:61252/hoc-java-hieu-sau/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/hoc-java-hieu-sau/</guid>
+      <guid>http://localhost:61252/hoc-java-hieu-sau/</guid>
       <description>Một hành trình dài từ những dòng code đầu tiên đến việc trở thành lập trình viên Java chuyên nghiệp — cùng chia sẻ những bài học, công cụ và tư duy cần thiết.</description>
     </item>
   </channel>

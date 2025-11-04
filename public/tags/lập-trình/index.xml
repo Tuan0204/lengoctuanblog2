@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lập Trình on My Blog</title>
-    <link>http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+    <link>http://localhost:61252/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
     <description>Recent content in Lập Trình on My Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,19 +10,19 @@
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 31 Oct 2025 09:05:27 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/l%E1%BA%ADp-tr%C3%ACnh/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:61252/tags/l%E1%BA%ADp-tr%C3%ACnh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Học Java – Hành trình trở thành lập trình viên vững vàng</title>
-      <link>http://localhost:1313/java-hanh-trinh-hoc-tap/</link>
+      <link>http://localhost:61252/java-hanh-trinh-hoc-tap/</link>
       <pubDate>Thu, 23 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/java-hanh-trinh-hoc-tap/</guid>
+      <guid>http://localhost:61252/java-hanh-trinh-hoc-tap/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;“Việc học lập trình không phải là học để viết code, mà là học cách &lt;strong&gt;suy nghĩ như một lập trình viên&lt;/strong&gt;.”&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Khi tôi bắt đầu với Java, tôi không biết gì ngoài những dòng chữ đen trên nền trắng của IDE.&lt;br&gt;&#xA;Nhưng càng đi sâu, tôi càng nhận ra — Java không chỉ là ngôn ngữ, mà còn là &lt;strong&gt;một hành trình trưởng thành trong tư duy&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Con đường chinh phục Java – Từ người mới đến lập trình viên chuyên nghiệp</title>
-      <link>http://localhost:1313/hoc-java-hieu-sau/</link>
+      <link>http://localhost:61252/hoc-java-hieu-sau/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:1313/hoc-java-hieu-sau/</guid>
+      <guid>http://localhost:61252/hoc-java-hieu-sau/</guid>
       <description>Một hành trình dài từ những dòng code đầu tiên đến việc trở thành lập trình viên Java chuyên nghiệp — cùng chia sẻ những bài học, công cụ và tư duy cần thiết.</description>
     </item>
   </channel>

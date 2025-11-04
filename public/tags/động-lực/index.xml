@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Động Lực on My Blog</title>
-    <link>http://localhost:56876/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/</link>
+    <link>https://example.com/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/</link>
     <description>Recent content in Động Lực on My Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,12 +10,12 @@
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 16:39:54 +0700</lastBuildDate>
-    <atom:link href="http://localhost:56876/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.com/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Học Java như thế nào để không bỏ cuộc giữa chừng?</title>
-      <link>http://localhost:56876/bi-quyet-hoc-java-hieu-qua/</link>
+      <link>https://example.com/bi-quyet-hoc-java-hieu-qua/</link>
       <pubDate>Fri, 24 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:56876/bi-quyet-hoc-java-hieu-qua/</guid>
+      <guid>https://example.com/bi-quyet-hoc-java-hieu-qua/</guid>
       <description>Lộ trình thực tế để học Java bền vững: từ nền tảng, OOP, thư viện chuẩn đến làm dự án — cùng chiến lược giữ động lực.</description>
     </item>
   </channel>

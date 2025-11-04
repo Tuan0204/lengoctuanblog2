@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My Blog</title>
-    <link>http://localhost:61252/zh-cn/categories/</link>
+    <link>http://localhost:56876/zh-cn/categories/</link>
     <description>Recent content in Categories on My Blog</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <managingEditor>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</managingEditor>
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <atom:link href="http://localhost:61252/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56876/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>文档</title>
-      <link>http://localhost:61252/zh-cn/categories/documentation/</link>
+      <link>http://localhost:56876/zh-cn/categories/documentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/zh-cn/categories/documentation/</guid>
+      <guid>http://localhost:56876/zh-cn/categories/documentation/</guid>
       <description></description>
     </item>
   </channel>

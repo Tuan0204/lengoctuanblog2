@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My Blog</title>
-    <link>http://localhost:61252/tags/</link>
+    <link>http://localhost:56876/tags/</link>
     <description>Recent content in Tags on My Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,117 +10,117 @@
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 31 Oct 2025 09:05:27 +0700</lastBuildDate>
-    <atom:link href="http://localhost:61252/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56876/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Động Lực</title>
-      <link>http://localhost:61252/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/</link>
+      <link>http://localhost:56876/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/</link>
       <pubDate>Fri, 24 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/</guid>
+      <guid>http://localhost:56876/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/</guid>
       <description></description>
     </item>
     <item>
       <title>Học Tập</title>
-      <link>http://localhost:61252/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</link>
+      <link>http://localhost:56876/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</link>
       <pubDate>Fri, 24 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
+      <guid>http://localhost:56876/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>http://localhost:61252/tags/java/</link>
+      <link>http://localhost:56876/tags/java/</link>
       <pubDate>Fri, 24 Oct 2025 14:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/java/</guid>
+      <guid>http://localhost:56876/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Career</title>
-      <link>http://localhost:61252/tags/career/</link>
+      <link>http://localhost:56876/tags/career/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/career/</guid>
+      <guid>http://localhost:56876/tags/career/</guid>
       <description></description>
     </item>
     <item>
       <title>Future</title>
-      <link>http://localhost:61252/tags/future/</link>
+      <link>http://localhost:56876/tags/future/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/future/</guid>
+      <guid>http://localhost:56876/tags/future/</guid>
       <description></description>
     </item>
     <item>
       <title>IDE</title>
-      <link>http://localhost:61252/tags/ide/</link>
+      <link>http://localhost:56876/tags/ide/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/ide/</guid>
+      <guid>http://localhost:56876/tags/ide/</guid>
       <description></description>
     </item>
     <item>
       <title>Kinh Nghiệm</title>
-      <link>http://localhost:61252/tags/kinh-nghi%E1%BB%87m/</link>
+      <link>http://localhost:56876/tags/kinh-nghi%E1%BB%87m/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/kinh-nghi%E1%BB%87m/</guid>
+      <guid>http://localhost:56876/tags/kinh-nghi%E1%BB%87m/</guid>
       <description></description>
     </item>
     <item>
       <title>Lập Trình</title>
-      <link>http://localhost:61252/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <link>http://localhost:56876/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      <guid>http://localhost:56876/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
       <description></description>
     </item>
     <item>
       <title>Learning</title>
-      <link>http://localhost:61252/tags/learning/</link>
+      <link>http://localhost:56876/tags/learning/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/learning/</guid>
+      <guid>http://localhost:56876/tags/learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Mistake</title>
-      <link>http://localhost:61252/tags/mistake/</link>
+      <link>http://localhost:56876/tags/mistake/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/mistake/</guid>
+      <guid>http://localhost:56876/tags/mistake/</guid>
       <description></description>
     </item>
     <item>
       <title>Newbie</title>
-      <link>http://localhost:61252/tags/newbie/</link>
+      <link>http://localhost:56876/tags/newbie/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/newbie/</guid>
+      <guid>http://localhost:56876/tags/newbie/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>http://localhost:61252/tags/programming/</link>
+      <link>http://localhost:56876/tags/programming/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/programming/</guid>
+      <guid>http://localhost:56876/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>http://localhost:61252/tags/tools/</link>
+      <link>http://localhost:56876/tags/tools/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/tools/</guid>
+      <guid>http://localhost:56876/tags/tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Hành Trình Học Tập</title>
-      <link>http://localhost:61252/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</link>
+      <link>http://localhost:56876/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
+      <guid>http://localhost:56876/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</guid>
       <description></description>
     </item>
     <item>
       <title>Learning Path</title>
-      <link>http://localhost:61252/tags/learning-path/</link>
+      <link>http://localhost:56876/tags/learning-path/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/learning-path/</guid>
+      <guid>http://localhost:56876/tags/learning-path/</guid>
       <description></description>
     </item>
     <item>
       <title>Practice</title>
-      <link>http://localhost:61252/tags/practice/</link>
+      <link>http://localhost:56876/tags/practice/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/tags/practice/</guid>
+      <guid>http://localhost:56876/tags/practice/</guid>
       <description></description>
     </item>
   </channel>

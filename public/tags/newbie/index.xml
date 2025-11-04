@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Newbie on My Blog</title>
-    <link>http://localhost:61252/tags/newbie/</link>
+    <link>http://localhost:56876/tags/newbie/</link>
     <description>Recent content in Newbie on My Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,12 +10,12 @@
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 17:07:45 +0700</lastBuildDate>
-    <atom:link href="http://localhost:61252/tags/newbie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56876/tags/newbie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vì sao nên bắt đầu với Java khi học lập trình</title>
-      <link>http://localhost:61252/vi-sao-nen-hoc-java/</link>
+      <link>http://localhost:56876/vi-sao-nen-hoc-java/</link>
       <pubDate>Fri, 24 Oct 2025 12:00:00 +0700</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/vi-sao-nen-hoc-java/</guid>
+      <guid>http://localhost:56876/vi-sao-nen-hoc-java/</guid>
       <description>&lt;p&gt;Khi bắt đầu học lập trình, bạn có thể phân vân giữa rất nhiều lựa chọn: C, Python, C++, hay Java.&lt;br&gt;&#xA;Vậy tại sao nhiều người lại khuyên bạn &lt;strong&gt;bắt đầu với Java&lt;/strong&gt;?&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-cú-pháp-rõ-ràng-dễ-hiểu&#34;&gt;1. Cú pháp rõ ràng, dễ hiểu&lt;/h3&gt;&#xA;&lt;p&gt;Java có cấu trúc chặt chẽ, giúp người mới học hiểu rõ cách máy tính “suy nghĩ”.&lt;br&gt;&#xA;Cú pháp tương tự C++ nhưng loại bỏ nhiều phần phức tạp như con trỏ, quản lý bộ nhớ thủ công&amp;hellip;&lt;/p&gt;</description>
     </item>
   </channel>

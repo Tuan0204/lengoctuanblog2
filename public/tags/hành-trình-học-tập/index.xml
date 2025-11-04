@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hành Trình Học Tập on My Blog</title>
-    <link>http://localhost:61252/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</link>
+    <link>http://localhost:56876/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</link>
     <description>Recent content in Hành Trình Học Tập on My Blog</description>
     <generator>Hugo</generator>
     <language>en</language>
@@ -10,12 +10,12 @@
     <webMaster>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 24 Oct 2025 17:07:45 +0700</lastBuildDate>
-    <atom:link href="http://localhost:61252/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:56876/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nhân duyên tôi đến với ngành lập trình Java</title>
-      <link>http://localhost:61252/nhan-duyen-den-voi-java/</link>
+      <link>http://localhost:56876/nhan-duyen-den-voi-java/</link>
       <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate><author>lengoctuan04lkk@gmail.com (Le Ngoc Tuan)</author>
-      <guid>http://localhost:61252/nhan-duyen-den-voi-java/</guid>
+      <guid>http://localhost:56876/nhan-duyen-den-voi-java/</guid>
       <description>&lt;p&gt;Có lẽ ai trong chúng ta cũng từng có một “nhân duyên” nào đó với ngành mình đang theo đuổi.&lt;br&gt;&#xA;Với tôi, hành trình đến với &lt;strong&gt;Java&lt;/strong&gt; bắt đầu không phải bằng đam mê mãnh liệt, mà là &lt;strong&gt;sự tò mò và một chút định mệnh&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Hồi năm đầu đại học, tôi từng không biết gì về lập trình. Nhưng khi tham gia một buổi workshop nhỏ về “Xây dựng ứng dụng bằng Java”, tôi bị cuốn hút bởi cách những dòng lệnh có thể tạo ra những điều thật hữu ích.&lt;br&gt;&#xA;Tôi bắt đầu tìm hiểu từ những điều cơ bản: biến, vòng lặp, class, object&amp;hellip; Và rồi càng học càng thấy thích.&lt;/p&gt;</description>
     </item>
   </channel>

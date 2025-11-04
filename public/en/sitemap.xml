@@ -2,77 +2,77 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://localhost:61252/java-hanh-trinh-hoc-tap/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:61252/categories/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:56876/java-hanh-trinh-hoc-tap/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:56876/categories/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:61252/zh-cn/categories/"
+                        href="http://localhost:56876/zh-cn/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:61252/categories/"
+                    href="http://localhost:56876/categories/"
                     /></url><url>
-            <loc>http://localhost:61252/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/bi-quyet-hoc-java-hieu-qua/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/categories/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:61252/tags/java/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:61252/</loc><lastmod>2025-10-31T09:55:42&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:56876/tags/%C4%91%E1%BB%99ng-l%E1%BB%B1c/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/bi-quyet-hoc-java-hieu-qua/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/categories/h%E1%BB%8Dc-l%E1%BA%ADp-tr%C3%ACnh/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/h%E1%BB%8Dc-t%E1%BA%ADp/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:56876/tags/java/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:56876/</loc><lastmod>2025-11-04T14:51:52&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:61252/zh-cn/"
+                        href="http://localhost:56876/zh-cn/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:61252/"
+                    href="http://localhost:56876/"
                     /></url><url>
-            <loc>http://localhost:61252/posts/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:61252/tags/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>http://localhost:56876/posts/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:56876/tags/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:61252/zh-cn/tags/"
+                        href="http://localhost:56876/zh-cn/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:61252/tags/"
+                    href="http://localhost:56876/tags/"
                     /></url><url>
-            <loc>http://localhost:61252/cong-cu-ho-tro-java/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/career/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/hoc-java-hieu-sau/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/categories/c%C3%B4ng-c%E1%BB%A5/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/categories/%C4%91%E1%BB%8Bnh-h%C6%B0%E1%BB%9Bng-ngh%E1%BB%81-nghi%E1%BB%87p/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/future/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/hoc-java-de-lam-gi/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/ide/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/categories/java/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/categories/ki%E1%BA%BFn-th%E1%BB%A9c-c%C6%A1-b%E1%BA%A3n/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/kinh-nghi%E1%BB%87m/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/categories/kinh-nghi%E1%BB%87m-h%E1%BB%8Dc-t%E1%BA%ADp/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/l%E1%BA%ADp-tr%C3%ACnh/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:61252/categories/l%E1%BA%ADp-tr%C3%ACnh-java/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/learning/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/mistake/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/newbie/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/sai-lam-khi-hoc-java/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/programming/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/tools/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/vi-sao-nen-hoc-java/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/categories/c%E1%BA%A3m-h%E1%BB%A9ng/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/categories/h%E1%BB%8Dc-t%E1%BA%ADp/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/gioi-java-trong-6-thang/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/learning-path/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/categories/l%E1%BB%99-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/nhan-duyen-den-voi-java/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/tags/practice/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
-            <loc>http://localhost:61252/categories/blog-h%E1%BB%8Dc-t%E1%BA%ADp/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:61252/about/</loc><lastmod>2025-10-31T09:55:42&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://localhost:61252/categories/documentation/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
+            <loc>http://localhost:56876/cong-cu-ho-tro-java/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/career/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/hoc-java-hieu-sau/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/categories/c%C3%B4ng-c%E1%BB%A5/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/categories/%C4%91%E1%BB%8Bnh-h%C6%B0%E1%BB%9Bng-ngh%E1%BB%81-nghi%E1%BB%87p/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/future/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/hoc-java-de-lam-gi/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/ide/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/categories/java/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/categories/ki%E1%BA%BFn-th%E1%BB%A9c-c%C6%A1-b%E1%BA%A3n/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/kinh-nghi%E1%BB%87m/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/categories/kinh-nghi%E1%BB%87m-h%E1%BB%8Dc-t%E1%BA%ADp/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/l%E1%BA%ADp-tr%C3%ACnh/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:56876/categories/l%E1%BA%ADp-tr%C3%ACnh-java/</loc><lastmod>2025-10-24T16:39:54&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/learning/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/mistake/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/newbie/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/sai-lam-khi-hoc-java/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/programming/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/tools/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/vi-sao-nen-hoc-java/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/categories/c%E1%BA%A3m-h%E1%BB%A9ng/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/h%C3%A0nh-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/categories/h%E1%BB%8Dc-t%E1%BA%ADp/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/gioi-java-trong-6-thang/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/learning-path/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/categories/l%E1%BB%99-tr%C3%ACnh-h%E1%BB%8Dc-t%E1%BA%ADp/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/nhan-duyen-den-voi-java/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/tags/practice/</loc><lastmod>2025-10-24T17:07:45&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority></url><url>
+            <loc>http://localhost:56876/categories/blog-h%E1%BB%8Dc-t%E1%BA%ADp/</loc><lastmod>2025-10-31T09:05:27&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:56876/about/</loc><lastmod>2025-11-04T14:51:52&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://localhost:56876/categories/documentation/</loc><lastmod>2025-10-24T01:28:13&#43;07:00</lastmod><changefreq>weekly</changefreq><priority>0.9</priority><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
-                        href="http://localhost:61252/zh-cn/categories/documentation/"
+                        href="http://localhost:56876/zh-cn/categories/documentation/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://localhost:61252/categories/documentation/"
+                    href="http://localhost:56876/categories/documentation/"
                     /></url></urlset>
